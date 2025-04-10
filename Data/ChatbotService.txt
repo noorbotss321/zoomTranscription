@@ -1,0 +1,11 @@
+AI Chatbot Solutions
+
+Enterprise-grade AI chatbots powered by generative AI and large language models (LLMs), designed to revolutionize customer interaction and automate up to 42% of routine inquiries.
+
+Features:
+- Multilingual support for global customer base
+- Voice-activated capabilities for hands-free interactions
+- Integration with CRM/ERP systems for streamlined workflows
+- GPT-based models for human-like conversations 
+- Transactional capabilities for handling orders and payments
+- Retrieval-based solutions for accurate information delivery 
